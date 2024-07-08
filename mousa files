@@ -1,0 +1,51 @@
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Premier Site Web</title>
+    <style>
+        /* Ajoutez ici vos styles CSS si nécessaire */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        header {
+            background-color: #f2f2f2;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            margin-right: 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mon Premier Site Web</h1>
+        <nav>
+            <a href="#">Accueil</a>
+            <a href="#">À propos</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Section 1</h2>
+            <p>Bienvenue sur mon premier site web. Voici une section de contenu.</p>
+        </section>
+
+        <section>
+            <h2>Section 2</h2>
+            <p>Voici une autre section intéressante avec plus de contenu.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy;copie raig 2024 Mon Premier Site. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
